@@ -6,6 +6,6 @@ This repo can be used for anyone to create feature requests related to Enonic pr
 
 For general questions or technical discussions, use our forum or community slack. Paying customers may also create feature requests directly in our support system
 
-* https://slack.enonic.com
-* https://discuss.enonic.com
-* https://support.enonic.com
+* [Community Slack](https://slack.enonic.com)
+* [Forum](https://discuss.enonic.com)
+* [Support desk](https://support.enonic.com)
